@@ -30,7 +30,7 @@ The objective of the task was to develop a Pong game in C++ while applying objec
 - **Esc** → Exit Game
 
 ## Screenshots
-<img width="1536" height="1024" alt="ChatGPT Image Jul 1, 2026, 04_20_50 PM" src="https://github.com/user-attachments/assets/f265b8dd-6a5b-43c1-b6bc-2054b4e4fa29" />
+<img width="1536" height="1024" alt="ChatGPT Image Jul 1, 2026, 04_26_30 PM" src="https://github.com/user-attachments/assets/c820a017-5cb9-4926-9f86-ed9a2deed0e3" />
 
 
 ## 📂 Internship Task
